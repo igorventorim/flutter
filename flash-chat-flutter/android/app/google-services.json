@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "86910558091",
+    "firebase_url": "https://flash-chat-5947a.firebaseio.com",
+    "project_id": "flash-chat-5947a",
+    "storage_bucket": "flash-chat-5947a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86910558091:android:d6ce1bcc8cc53bacc9998e",
+        "android_client_info": {
+          "package_name": "br.com.artmila.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86910558091-lrb9d0sm3unbs09duejnfipbbee3fe0h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlk8P3YFLwmFhu4gypdP0uqiYA3hEua20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86910558091-lrb9d0sm3unbs09duejnfipbbee3fe0h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
