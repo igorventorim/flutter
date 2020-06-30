@@ -4,7 +4,7 @@ import 'package:clima/services/response.dart';
 
 class Networking {
   String _url = 'http://api.openweathermap.org/data/2.5/weather';
-  String _key = 'f5579a8817af1e74e6b02e18b6b864cc';
+  String _key = '';
 
   Future<City> getWeatherByCoordinates(double lat, double long) async {
     City city = null;
