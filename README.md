@@ -1,2 +1,2 @@
-# Repository of apps created for learning flutter
+# Repository of apps created for learn flutter
 
